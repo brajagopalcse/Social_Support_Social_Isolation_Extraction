@@ -20,7 +20,7 @@ We will update the GPU version of the LLM code soon.
 
 Please cite the following paper if you find this code useful.
 
-_Patra, B. G., Lepow, L. A., Kumar, P. K. R. J., Vekaria, V., Sharma, M. M., Adekkanattu, P., Fennessy, B., Hynes, G., Landi, I., Sanchez-Ruiz, J. A., Ryu, E., Biernacka, J. M., Nadkarni, G. M., Talati, A., Weissman, M., Olfson, M., Mann, J. J., Charney, A. W., & Pathak, J. (2024). Extracting Social Support and Social Isolation Information from Clinical Psychiatry Notes: Comparing a Rule-based NLP System and a Large Language Model. [arXiv preprint arXiv:2403.17199](https://github.com/brajagopalcse/SISU))_
+_Patra, B. G., Lepow, L. A., Kumar, P. K. R. J., Vekaria, V., Sharma, M. M., Adekkanattu, P., Fennessy, B., Hynes, G., Landi, I., Sanchez-Ruiz, J. A., Ryu, E., Biernacka, J. M., Nadkarni, G. M., Talati, A., Weissman, M., Olfson, M., Mann, J. J., Charney, A. W., & Pathak, J. (2024). Extracting Social Support and Social Isolation Information from Clinical Psychiatry Notes: Comparing a Rule-based Natural Language Processing System and a Large Language Model. Journal of the American Medical Informatics Association, Volume 32, Issue 1, January 2025, Pages 218–226, https://doi.org/10.1093/jamia/ocae260_
 
 Please contact brajagopal[dot]cse[at]gmail[dot]com for further information. 
 
